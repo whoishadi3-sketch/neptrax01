@@ -72,7 +72,7 @@ export default function Home({ onNavigate }: HomeProps) {
             <div className="flex flex-col sm:flex-row gap-4">
               <button
                 onClick={() => onNavigate('contact')}
-                className="group px-16 py-4 rounded-full bg-gradient-to-r from-[#2563eb] to-[#1e3a8a] text-[#f1f5f9] font-medium hover:scale-105 hover:shadow-[0_0_30px_rgba(37,99,235,0.6)] transition-all flex items-center justify-center gap-2"
+                className="group h-10 px-16 rounded-full bg-gradient-to-r from-[#2563eb] to-[#1e3a8a] text-[#f1f5f9] font-medium hover:scale-105 hover:shadow-[0_0_30px_rgba(37,99,235,0.6)] transition-all flex items-center justify-center gap-2"
               >
                 Book a Call
                 <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
