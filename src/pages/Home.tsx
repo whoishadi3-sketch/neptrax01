@@ -107,7 +107,7 @@ export default function Home({ onNavigate }: HomeProps) {
                 <img
                   src="/brand logo/vercel.png"
                   alt="Vercel"
-                  className="h-8"
+                  className="h-14"
                   style={{ filter: 'brightness(0) saturate(100%) invert(1) sepia(1) saturate(0.5) hue-rotate(200deg) brightness(0.9)' }}
                 />
               </div>
