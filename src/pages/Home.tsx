@@ -49,10 +49,7 @@ export default function Home({ onNavigate }: HomeProps) {
 
         <div className="relative z-10 max-w-7xl mx-auto px-6 md:px-12 w-full">
           <div className="max-w-3xl">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[#1e293b]/60 backdrop-blur-sm border border-white/10 mb-8 animate-fade-in">
-              <TrendingUp size={16} className="text-[#2563eb]" />
-              <span className="text-sm text-[#94a3b8]">Trusted by leading brands worldwide</span>
-            </div>
+
 
             <h1
               className="text-5xl md:text-7xl lg:text-6xl font text-[#f1f5f9] mb-6 leading-tight animate-fade-in"
