@@ -52,7 +52,7 @@ export default function Home({ onNavigate }: HomeProps) {
 
 
             <h1
-              className="text-5xl md:text-7xl lg:text-6xl font text-[#f1f5f9] mb-16 leading-tight animate-fade-in"
+              className="text-5xl md:text-7xl lg:text-6xl font text-[#f1f5f9] mb-6 leading-tight animate-fade-in"
             >
               Launch your brand online <br />
               <span className="bg-gradient-to-r from-[#2e4fdc] to-[#4da6ff] bg-clip-text text-transparent">
