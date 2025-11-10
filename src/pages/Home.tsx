@@ -78,7 +78,7 @@ export default function Home({ onNavigate }: HomeProps) {
               </button>
               <button
                 onClick={() => onNavigate('portfolio')}
-                className="group px-12 py-3 rounded-full bg-transparent border border-[#8f9eb3] text-[#f1f5f9] font-medium hover:brightness-125 transition-all flex items-center justify-center gap-2"
+                className="group px-10 py-3 rounded-full bg-transparent border border-[#8f9eb3] text-[#f1f5f9] font-medium hover:brightness-125 transition-all flex items-center justify-center gap-2"
               >
                 View Our Work
                 <ArrowUpRight size={18} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
