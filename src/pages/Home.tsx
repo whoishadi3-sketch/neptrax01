@@ -100,7 +100,7 @@ export default function Home({ onNavigate }: HomeProps) {
                 <img
                   src="/brand logo/stripe.png"
                   alt="Stripe"
-                  className="h-8"
+                  className="h-12"
                   style={{ filter: 'brightness(0) saturate(100%) invert(1) sepia(1) saturate(0.5) hue-rotate(200deg) brightness(0.9)' }}
                 />
 
