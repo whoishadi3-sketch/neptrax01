@@ -83,7 +83,7 @@ export default function Home({ onNavigate }: HomeProps) {
             </div>
 
             <div>
-              <h3 className="text-sm text-[#abbcd4] font-bold mb-6 text-center sm:text-left">
+              <h3 className="text-sm text-[#abbcd4] font-bold mb-4 text-center sm:text-left">
                 Trusted by Industry Leaders
               </h3>
               <div className="flex items-center justify-center sm:justify-start gap-12 flex-wrap">
